@@ -29,11 +29,6 @@
 # Fall 2013 Page / Fall 2003
 - Since this was the beginning of the outbreak I want the page to feel almost brand new.
 **Game information**
-
-**TV Series information**
-
-# Summer 2033 / Summer 2023
-**Game information**
 - Cordyceps mutates somewhere in South America (Branch to cordyceps)
 - Sarah wakes up to explosions, finds Joel is nowhere to be seen.
 - Is saved by Joel and put into truck with Tommy
@@ -41,6 +36,7 @@
 - Runs from early stage runners eventually getting to the outskirts of town being seperated from Tommy.
 - Is stopped by U.S Soldier, soldier is ordered to excute them, opening fire.
 - Tommy shoots the soldier, sarah is hit and dies.
+
 **TV Series information**
 - Cordyceps mutates in Jakarta, Indonesia. At a flour mill
 - Sarah travels to the city to buy a watch for Joel's birthday, shop closes abruptly by owners.
@@ -48,7 +44,17 @@
 - Sarah wakes up, noticing neighbors dog is out. Goes to return their dog. Finds their neighbors disabled mother, infected and killing the neighbors, she runs out, joel and tommy pull up and save her.
 - Follows the basic structure of the game from now on.
 
+# Summer 2033 / Summer 2023
+- Summerish background
+- Should feel very different from the fall 2013 page, much more ruin down. Following pages should follow suit but not as drastically 
+**Game information**
+- Will fill in later
+**TV Series information**
+- Will fill in later
+
 # Fall 2033 / Fall 2023
+- Fallish background
+- Falling leaves?
 **Game information**
 Quarantine Zone (Summer)
 - Joel meets with Tess to go accross a checkpoint. They are trying to find 'Robert' who has their weapons.
@@ -87,18 +93,29 @@ Pittsburgh (Summer)
 - With a broken truck and the ambush taken care of they must make it through the city and get to a bridge that leads them out.
 
 **TV Series information**
+- Will fill in later
 
 # Winter 2033 / Winter 2023
+-Winterish background
+- Snow effect?
 **Game information**
+- Will fill in later
 
 **TV Series information**
+- Will fill in later
 
 # Spring 2033 / Spring 2023
+-Springish background
 **Game information**
+- Will fill in later
 
 **TV Series information**
+- Will fill in later
 
 # Off-branch Pages
+- Should have a layout like a traditional wiki page
+- Maybe the links to these pages have condensed version of the information in a tooltip. (JS lib)
+**Pages**
 - Cordyceps
 - Ellie
 - Joel
