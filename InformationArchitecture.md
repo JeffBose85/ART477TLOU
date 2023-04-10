@@ -48,14 +48,6 @@
 - Summerish background
 - Should feel very different from the fall 2013 page, much more ruin down. Following pages should follow suit but not as drastically 
 **Game information**
-- Will fill in later
-**TV Series information**
-- Will fill in later
-
-# Fall 2033 / Fall 2023
-- Fallish background
-- Falling leaves?
-**Game information**
 Quarantine Zone (Summer)
 - Joel meets with Tess to go accross a checkpoint. They are trying to find 'Robert' who has their weapons.
 - As they were going through the checkpoint the fireflies attack. They run away and must use an alternative route.
@@ -91,6 +83,15 @@ Pittsburgh (Summer)
 - While driving they come up into Pittsburgh and are stopped by a roadblock. Joel takes an alternative route where they are met with a guy in the middle of the road yelling for help. Joel who is experienced in this type of scam doesn't believe the individual and floors it.
 - It was an ambush. Joel and Ellie crash into a building and must fight off the ambush.
 - With a broken truck and the ambush taken care of they must make it through the city and get to a bridge that leads them out.
+
+**TV Series information**
+- Will fill in later
+
+# Fall 2033 / Fall 2023
+- Fallish background
+- Falling leaves?
+**Game information**
+- Will fill in later
 
 **TV Series information**
 - Will fill in later
