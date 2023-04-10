@@ -20,13 +20,25 @@
 - There will be a button that will switch between the game and tv series.
 
 **Game Timeline**
-- Fall 2013
-- Summer 2033
-- Fall 2033
-- Winter 2033
-- Spring 2033
+Prologue 2013
+- Hometown
+Summer 2033
+- Quarantine Zone
+- The Outskirts
+- Bill's Town
+- Pittsburgh
+Fall 2033
+- The Suburbs
+- Tommy's Dam
+- The University
+Winter 2033
+- Lakeside Resort
+Spring 2033
+- Bus Depot
+- The Firefly Lab
+- Jackson
 
-# Fall 2013 Page / Fall 2003
+# Prologue 2013 Page / Prologue 2003
 - Since this was the beginning of the outbreak I want the page to feel almost brand new.
 **Game information**
 - Cordyceps mutates somewhere in South America (Branch to cordyceps)
@@ -91,7 +103,9 @@ Pittsburgh (Summer)
 - Fallish background
 - Falling leaves?
 **Game information**
-- Will fill in later
+The Suburbs
+Tommy's Dam
+The University
 
 **TV Series information**
 - Will fill in later
@@ -100,7 +114,7 @@ Pittsburgh (Summer)
 -Winterish background
 - Snow effect?
 **Game information**
-- Will fill in later
+Lakeside Resort
 
 **TV Series information**
 - Will fill in later
@@ -108,7 +122,9 @@ Pittsburgh (Summer)
 # Spring 2033 / Spring 2023
 -Springish background
 **Game information**
-- Will fill in later
+Bus Depot
+The Firefly Lab
+Jackson
 
 **TV Series information**
 - Will fill in later
