@@ -1,0 +1,28 @@
+@font-face {
+    font-family: PressGothic;
+    src: url(../fonts/PressGothic.otf);
+}
+
+@font-face {
+    font-family: DDin;
+    src: url(../fonts/D-DINExp.otf);
+}
+@font-face {
+    font-family: DDin;
+    src: url(../fonts/D-DINExp-Bold.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: DDin;
+    src: url(../fonts/D-DINExp-Italic.otf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DDinCondensed;
+    src: url(../fonts/D-DINCondensed.otf);
+}
+
+body {
+    font-family: 'DDin', 'PressGothic', Arial, 'Courier New', Courier, monospace;
+}
