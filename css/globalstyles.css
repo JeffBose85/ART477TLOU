@@ -25,4 +25,8 @@
 
 body {
     font-family: 'DDin', 'PressGothic', Arial, 'Courier New', Courier, monospace;
+    background-color: black;
+    color:white;
+    overflow: hidden;
+    margin:0;
 }

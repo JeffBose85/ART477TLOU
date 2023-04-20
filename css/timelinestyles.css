@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color:white;
+}
+
+body {
+    background-image: url(../images/MainMenuStatic.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    z-index: 0;
+}
+
+.titlesection {
+    text-align: center;
+}
+
+.title {
+    font-family: "Press Gothic";
+    font-size:9vw;
+    margin:0;
+}
+
+.switcher {
+    display:flex;
+}
