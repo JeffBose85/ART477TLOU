@@ -1,14 +1,21 @@
-body {
-    background-color: black;
-    color:white;
+
+:root {
+    --timelinesectionwidth: 17vw;
+    --timelinesectionheight: calc(var(--timelinesectionwidth)/ 1.778);
+    --topoffset: -9.6vw;
+
 }
 
-body {
+.container {
+    position: relative;
+    
     background-image: url(../images/MainMenuStatic.png);
-    background-size: cover;
+    background-size:cover;
     background-repeat: no-repeat;
 
     z-index: 0;
+    width:100%;
+    height:100vh;
 }
 
 .titlesection {
@@ -91,4 +98,98 @@ input:checked + .slider:before {
     -webkit-transform: translateX(2.1vw);
     -ms-transform: translateX(2.1vw);
     transform: translateX(2.1vw);
+}
+
+.mainline {
+    position: absolute;
+    width:90%;
+    background-color: white;
+    border:2px white solid;
+    top:60%;
+    left:5%;
+}
+
+.TLSection {
+    position: absolute;
+
+    background: rgb(17,17,17);
+    background: linear-gradient(90deg, rgba(17,17,17,1) 0%, rgba(17,17,17,0.5) 50%, rgba(17,17,17,0) 100%); 
+    width:var(--timelinesectionwidth);
+    height:var(--timelinesectionheight);
+
+    border: 1px transparent solid;
+    border-left: 3px white solid;
+    z-index: -1;
+
+    overflow:hidden;
+    
+}
+
+.TLText > span{
+    transition: 1s;
+}
+
+.TLSection > .TLText {
+    font-size: 3vw;
+    margin:auto;
+    padding-top:1vw;
+    width:95%;
+    
+    opacity: 60%;
+
+    transition: 1s;
+}
+
+.TLSection > img {
+    position: absolute;
+    opacity: 50%;
+    max-width: 100%;
+
+    transition: 1s;
+    z-index: -1;
+
+    top:0;
+    left: calc(var(--timelinesectionwidth) * -1.2);
+}
+
+.TLSection:hover {
+    border: 1px white solid;
+    border-left: 3px white solid;
+
+    transition: .2s;
+    transition-delay: .9s;
+}
+
+.TLSection:hover > * {
+    opacity: 100%;
+}
+
+
+.TLSection:hover > img {
+    left:0;
+}
+
+.prologue {
+    top:var(--topoffset);
+    left:2.5vw;
+}
+
+.summer {
+    top:.1vw;
+    left:30vw;
+}
+
+.fall {
+    top:var(--topoffset);
+    left:44vw;
+}
+
+.winter {
+    top:.1vw;
+    left:58vw;
+}
+
+.spring {
+    top:var(--topoffset);
+    left:72vw;
 }
