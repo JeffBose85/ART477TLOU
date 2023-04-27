@@ -2,11 +2,20 @@ var game = true;
 
 $(document).ready(function() {
 
+    switchyears();
+
     $(".switchbox").click(function() {
         game = !game;
         console.log('On game:' + game);
         switchyears();
     });
+
+    $(".TLSection").click(function() {
+        console.log(this.id);
+        var url = this.id + ".html";
+        window.location.href = url;
+    });
+
 });
 
 function switchyears() {
@@ -22,8 +31,6 @@ function switchyears() {
 }
 
 function htmlChange(yeararray) {
-
-    
         $('.prologueyear').html(yeararray[0]);
         $('.summeryear').html(yeararray[1]);
         $('.fallyear').html(yeararray[1]);
