@@ -9,13 +9,14 @@
 .container {
     position: relative;
     
-    background-image: url(../images/MainMenuStatic.png);
+    background-image: url(../images/MAINMENU/MainMenuStatic.png);
     background-size:cover;
     background-repeat: no-repeat;
 
     z-index: 0;
     width:100%;
     height:100vh;
+
 }
 
 .titlesection {

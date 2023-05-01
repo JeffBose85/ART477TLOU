@@ -23,10 +23,21 @@
     src: url(../fonts/D-DINCondensed.otf);
 }
 
-:root {
-    --sectionheaderwidth: 100vw;
-    --sectionheaderheight: calc(var(--sectionheaderwidth) / 1.778)
+@keyframes fadein {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
+    
 }
+
+::-webkit-scrollbar {
+    width:.4vw;
+}
+  
+::-webkit-scrollbar-thumb {
+    background-color:rgb(78, 78, 78);
+    border-radius: 1vw;
+}
+  
 
 body {
     font-family: 'DDin', 'PressGothic', Arial, 'Courier New', Courier, monospace;
@@ -35,11 +46,21 @@ body {
     margin:0;
 }
 
+.container {
+    
+    animation: fadein 2s forwards;
+    animation-delay: 1s;
+
+    opacity: 0%;
+}
+
 .switcher {
     display:flex;
     width:fit-content;
     margin:auto;
     margin-top:1vw;
+
+    z-index: 100;
 }
 
 .switcher > h2 {

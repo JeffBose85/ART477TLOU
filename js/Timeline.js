@@ -13,7 +13,10 @@ $(document).ready(function() {
     $(".TLSection").click(function() {
         console.log(this.id);
         var url = this.id + ".html";
-        window.location.href = url;
+        $('body').animate({opacity: '0%'},1900);
+        setTimeout(function() {
+            window.location.href = url;
+        }, 2200);
     });
 
 });

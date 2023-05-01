@@ -1,0 +1,154 @@
+
+:root {
+    --locationimagewidth: 24.3vw;
+    --locationimageheight: calc(var(--locationimagewidth) / 1.778);
+    
+    --sectionheaderwidth: 100vw;
+    --sectionheaderheight: calc(var(--sectionheaderwidth) / 1.778);
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.switcher {
+    position: fixed;
+    top:3vw;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sectionheader {
+    z-index: 1;
+
+    text-align: center;
+    width:100%;
+    height:100vh;
+    overflow: hidden;
+}
+
+.sectionheader > img {
+    max-width: var(--sectionheaderwidth);
+    max-height: var(--sectionheaderheight);
+}
+
+.sectionheader > h1{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left:calc(var(--sectionheaderwidth) / 2);
+    top:calc(var(--sectionheaderheight) / 4);
+
+    font-family: "PressGothic";
+    font-size: 10vw;
+    line-height: 9vw;
+}
+
+.headergradient {
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(17,17,17,0.5) 50%, rgba(17,17,17,0) 100%); 
+    position: absolute;
+    width: var(--sectionheaderwidth);
+    height: calc(var(--sectionheaderheight) / 8);
+
+    bottom: 0;
+    left:0;
+}
+
+.maincontent {
+    position: relative;
+    height: auto;
+
+    margin-bottom: 25vw;
+
+    z-index: -1;
+}
+
+.switcherbackground {
+    position: sticky;
+    top:0px;
+    background-color: black;
+    width: 100%;
+    height: 90px;
+    z-index: 2;
+}
+
+.maincontentgradient {
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0) 100%);
+    position: absolute;
+    width:100%;
+    height: 150px;
+    top:50px;
+    left:0;
+    z-index: 1;
+
+}
+
+.locationmainline {
+    transform: translate(100%, 0%);
+    position: absolute;
+    left:50%;
+
+    width: 2px;
+    height: 100%;
+    background-color: white;
+    z-index: -1;
+}
+
+.location {
+    position: relative;
+    display:grid;
+    grid-template-columns: auto auto;
+    column-gap: 1.5vw;
+
+    width: 50vw;
+    height: auto;
+    margin:auto;
+    margin-top:10vw;
+    padding:1vw;
+}
+
+.locationoffshoot {
+    position: absolute;
+    display:inline-block;
+    transform: translate(50%, 0%);
+    width:10px;
+    height: 2px;
+    background-color: white;
+
+    
+    z-index: 100;
+}
+
+.locationoffshoot.right {
+    left:49.9%;
+    top:7%;
+}
+
+.locationoffshoot.left {
+    left:48.7%;
+    top:7%;
+}
+
+.locationpicture {
+    width:var(--locationimagewidth);
+    height:var(--locationimageheight);
+}
+
+.locationpicture > img {
+    max-width: 100%;
+    margin-top:1vw;
+}
+
+.locationcontent {
+    width: 24vw;
+    height: 24vw;
+}
+
+.locationcontent > h1 {
+    margin: 0;
+}
+
+.locationcontent > h1.left {
+    text-align: right;
+}

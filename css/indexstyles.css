@@ -3,18 +3,12 @@
     to {opacity: 60%;}
 }
 
-@keyframes fadeout {
-    from {opacity: 100%;}
-    to {opacity: 0%;}
-    
-}
-
 body {
     overflow: hidden;
 }
 
 #background {
-    max-width: 100%;
+    width: 100%;
     max-height: auto;
     object-fit: fill;
 
@@ -23,13 +17,13 @@ body {
 
 #starttext {
     position: absolute;
-    font-family: "DDin";
+    font-family: 'DDinCondensed';
     z-index: 1;
 
     top:40vh;
     left:5vw;
     font-size: 2em;
-    /* letter-spacing:.4vw; */
+    letter-spacing:.2vw;
 
     animation: startFade 2.5s infinite alternate-reverse;
 

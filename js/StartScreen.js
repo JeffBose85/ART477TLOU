@@ -7,7 +7,7 @@ $(document).on("keypress", function() {
 });
 
 function MoveNext() {
-    $('.container').animate({opacity: '0%'},1900);
+    $('body').animate({opacity: '0%'},1900);
     setTimeout(function() {
         window.location.href = "timeline.html";
     }, 2200);
