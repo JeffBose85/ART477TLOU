@@ -9,6 +9,10 @@
     
 }
 
+body {
+    overflow: hidden;
+}
+
 #background {
     max-width: 100%;
     max-height: auto;
@@ -19,13 +23,13 @@
 
 #starttext {
     position: absolute;
-    font-family: "PressGothic";
+    font-family: "DDin";
     z-index: 1;
 
-    bottom:20vh;
-    left:10vw;
+    top:40vh;
+    left:5vw;
     font-size: 2em;
-    letter-spacing:.4vw;
+    /* letter-spacing:.4vw; */
 
     animation: startFade 2.5s infinite alternate-reverse;
 
