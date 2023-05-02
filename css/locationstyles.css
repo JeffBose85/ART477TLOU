@@ -13,7 +13,7 @@ body {
 
 .switcher {
     position: fixed;
-    top:3vw;
+    top:50px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -57,6 +57,7 @@ body {
 .maincontent {
     position: relative;
     height: auto;
+    padding-bottom: 5vw;
 
     z-index: -1;
 }
@@ -67,7 +68,7 @@ body {
     background-color: black;
     width: 100%;
     height: 90px;
-    z-index: 2;
+    z-index: 50;
 }
 
 .maincontentgradient {
@@ -110,22 +111,22 @@ body {
     position: absolute;
     display:inline-block;
     transform: translate(50%, 0%);
-    width:10px;
+    width:.5vw;
     height: 2px;
     background-color: white;
 
     
-    z-index: 100;
+    z-index: 10;
 }
 
 .locationoffshoot.right {
     left:49.9%;
-    top:7%;
+    top:2vw;
 }
 
 .locationoffshoot.left {
     left:48.7%;
-    top:7%;
+    top:2vw;
 }
 
 .locationpicture {
@@ -135,16 +136,16 @@ body {
 
 .locationpicture > img {
     max-width: 100%;
-    margin-top:1vw;
+    margin-top:.4vw;
 }
 
 .locationcontent {
     width: 24vw;
-    height: 24vw;
 }
 
 .locationcontent > h1 {
     margin: 0;
+    white-space: nowrap;
 }
 
 .locationcontent > h1.left {
@@ -205,30 +206,6 @@ spring - 20px
     pointer-events: none;
 }
 
-/* 
-.leftfade {
-    position: absolute;
-    transform: translate(-350%, 0);
-    width:100px;
-    height:150px;
-    background: rgb(0,0,0);
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
-
-    left:50%;
-    z-index: 5;
-}
-.rightfade {
-    position: absolute;
-    transform: translate(350%, 0);
-    width:100px;
-    height:150px;
-    background: rgb(0,0,0);
-    background: linear-gradient(270deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
-
-    right:50%;
-    z-index: 5;
-} */
-
 .timeselector > .timetext > span {
     font-size: 30px;
     padding: 10px;
@@ -240,6 +217,10 @@ spring - 20px
 .selector {
     color:#888888;
     transition: .5s;
+}
+
+.selector:hover {
+    color:#d6d6d6;
 }
 
 .selected {
