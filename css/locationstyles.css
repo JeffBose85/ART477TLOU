@@ -58,8 +58,6 @@ body {
     position: relative;
     height: auto;
 
-    margin-bottom: 25vw;
-
     z-index: -1;
 }
 
@@ -152,3 +150,103 @@ body {
 .locationcontent > h1.left {
     text-align: right;
 }
+
+.timeselectorsection {
+    position: relative;
+    width:100%;
+    height:15vw;
+    background-color: black;
+}
+
+.timeselector {
+    position: relative;
+    margin: auto;
+    width:600px;
+    height:50px;
+
+    border-top: 2px white solid;
+    border-bottom: 2px white solid;
+
+    overflow: hidden;
+
+    text-align: center;
+}
+
+/*
+prologue - 558px
+summer - 392px
+fall - 271px
+winter - 155px
+spring - 20px
+*/
+
+.timetext {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top:23px;
+    left:20px;
+    margin:0;
+
+    white-space: nowrap;
+    transition: 1s;
+}
+
+.timefades {
+    position: absolute;
+    transform: translate(-50%, 0);
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 10%, rgba(0,0,0,0) 90%, rgba(0,0,0,1) 100%);
+    width:600px;
+    height:60px;
+
+    left:50%;
+
+    z-index: 5;
+    pointer-events: none;
+}
+
+/* 
+.leftfade {
+    position: absolute;
+    transform: translate(-350%, 0);
+    width:100px;
+    height:150px;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
+
+    left:50%;
+    z-index: 5;
+}
+.rightfade {
+    position: absolute;
+    transform: translate(350%, 0);
+    width:100px;
+    height:150px;
+    background: rgb(0,0,0);
+    background: linear-gradient(270deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
+
+    right:50%;
+    z-index: 5;
+} */
+
+.timeselector > .timetext > span {
+    font-size: 30px;
+    padding: 10px;
+
+    cursor: pointer;
+
+}
+
+.selector {
+    color:#888888;
+    transition: .5s;
+}
+
+.selected {
+    color:white;
+}
+
+.selected:hover {
+    font-weight: bold;
+}
+

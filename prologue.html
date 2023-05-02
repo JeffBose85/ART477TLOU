@@ -7,6 +7,7 @@
 		
 		<script src="js/jquery-3.6.4.min.js"></script>
 		<script src="js/SectionHeaderFade.js"></script>
+		<script src="js/TimeSelector.js"></script>
 		<script src="js/Prologue.js"></script>
 		<title>The Last of Us</title>
 	
@@ -26,7 +27,7 @@
             
             <div class="sectionheader">
 				<img src="images/1PROLOGUE/prologueroom.png" alt="">
-                <h1 class="header">PROLOGUE<br><span>2003</span></h1>
+                <h1 class="header"><span id="location">PROLOGUE</span><br><span>2003</span></h1>
                 <div class="headergradient"></div>
             </div>
             <div class="maincontent">
@@ -55,9 +56,22 @@
 						</p>
 					</div>
 				</div>
-
             </div>
-
+			<div class="timeselectorsection">
+				<div class="timefades"></div>
+				<!-- <div class="leftfade"></div>
+				<div class="rightfade"></div> -->
+				<div class="timeselector">
+					<p class="timetext">
+						<span class="selector" id="prologue">PROLOGUE</span>
+						<span class="selector" id="summer">SUMMER</span>
+						<span class="selector" id="fall">FALL</span>
+						<span class="selector" id="winter">WINTER</span>
+						<span class="selector" id="spring">SPRING</span>
+					</p>
+				</div>
+			</div>
+			
 		</div>
 	</body>
 </html>

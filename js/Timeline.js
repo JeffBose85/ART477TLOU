@@ -23,8 +23,8 @@ $(document).ready(function() {
 
 function switchyears() {
 
-    const gameyears = ["2003", "2013", "2014"];
-    const seriesyears = ["2013", "2023", "2024"];
+    const gameyears = ["2013", "2033", "2034"];
+    const seriesyears = ["2003", "2023", "2024"];
     
     if(game) {
         htmlChange(gameyears)
