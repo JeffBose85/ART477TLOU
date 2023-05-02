@@ -6,7 +6,6 @@ $(document).ready(function() {
 
     $(".switchbox").click(function() {
         game = !game;
-        console.log('On game:' + game);
         switchyears();
     });
 

@@ -46,6 +46,10 @@ body {
     margin:0;
 }
 
+.disabled {
+    visibility: collapse;
+}
+
 .container {
     
     animation: fadein 2s forwards;

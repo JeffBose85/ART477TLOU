@@ -51,7 +51,7 @@
 
 ## **TV Series information**
 - Cordyceps mutates in Jakarta, Indonesia. At a flour mill
-- Sarah travels to the city to buy a watch for Joel's birthday, shop closes abruptly by owners.
+- Sarah travels to the city to fix joel's watch for Joel's birthday, shop closes abruptly by owners.
 - Watching TV with Sarah, Joel gets a call that Tommy is in jail, joel leaves to bail him out.
 - Sarah wakes up, noticing neighbors dog is out. Goes to return their dog. Finds their neighbors disabled mother, infected and killing the neighbors, she runs out, joel and tommy pull up and save her.
 - Follows the basic structure of the game from now on.
