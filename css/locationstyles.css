@@ -41,6 +41,24 @@ body {
     font-family: "PressGothic";
     font-size: 10vw;
     line-height: 9vw;
+ 
+    background-clip: text;
+    background-size: cover;
+    -webkit-background-clip: text;
+    color:transparent;
+}
+
+.springgrunge {
+    background-image: url(../images/GRUNGE/grunge4.jpg);
+}
+.wintergrunge {
+    background-image: url(../images/GRUNGE/grunge3.jpg);
+}
+.fallgrunge {
+    background-image: url(../images/GRUNGE/grunge2.png);
+}
+.summergrunge {
+    background-image: url(../images/GRUNGE/grunge1.jpg);
 }
 
 .headergradient {
