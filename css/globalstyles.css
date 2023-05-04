@@ -37,6 +37,10 @@
     background-color:rgb(78, 78, 78);
     border-radius: 1vw;
 }
+
+::selection {
+    background-color: #418b05;
+}
   
 
 body {
@@ -130,4 +134,25 @@ input:checked + .slider:before {
     -webkit-transform: translateX(2.1vw);
     -ms-transform: translateX(2.1vw);
     transform: translateX(2.1vw);
+}
+
+.cornertitle {
+    position: fixed;
+    bottom: .5vw;
+    left:.5vw;
+
+    font-family: "PressGothic";
+    font-size: 2vw;
+    z-index: 100;
+    line-height: 1.8vw;
+    opacity: 50%;
+
+    transition: 1s;
+
+}
+
+.cornertitle:hover {
+    line-height: 2vw;
+    letter-spacing: .2vw;
+    cursor: pointer;
 }

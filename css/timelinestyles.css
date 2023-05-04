@@ -71,6 +71,7 @@
     opacity: 60%;
 
     transition: 1s;
+    pointer-events: none;
 }
 
 .TLSection > img {

@@ -28,8 +28,9 @@ body {
 }
 
 .sectionheader > * >  img {
-    max-width: var(--sectionheaderwidth);
+    max-width: 100%;
     max-height: var(--sectionheaderheight);
+    object-fit: cover;
 }
 
 .sectionheader > h1{
@@ -41,7 +42,9 @@ body {
     font-family: "PressGothic";
     font-size: 10vw;
     line-height: 9vw;
- 
+}
+
+.grunge {
     background-clip: text;
     background-size: cover;
     -webkit-background-clip: text;

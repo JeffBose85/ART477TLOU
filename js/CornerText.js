@@ -1,10 +1,8 @@
-
 $(document).ready(function() {
-    $(".TLSection").click(function() {
-        var url = this.id + ".html";
+    $(".cornertitle").click(function() {
         $('body').animate({opacity: '0%'},1900);
         setTimeout(function() {
-            window.location.href = url;
+            window.location.href = 'timeline.html';
         }, 2200);
     });
 });
