@@ -50,16 +50,29 @@ body {
     margin:0;
 }
 
-.disabled {
-    visibility: collapse;
-}
-
 .container {
     
     animation: fadein 2s forwards;
     animation-delay: 1s;
 
     opacity: 0%;
+}
+
+.maincontent {
+    position: relative;
+    height: auto;
+    padding-bottom: 5vw;
+
+    z-index: -1;
+}
+
+.switcherbackground {
+    position: sticky;
+    top:0px;
+    background-color: black;
+    width: 100%;
+    height: 90px;
+    z-index: 50;
 }
 
 .switcher {
@@ -88,6 +101,7 @@ body {
     height: 2.7vw;
 }
 
+
 .toggleswitch input {
     opacity: 0;
     width: 0;
@@ -108,6 +122,10 @@ body {
     border-radius: 34px;
 
 }
+
+.slider:hover {
+    background-color: #919191;
+}
   
 .slider:before {
     position: absolute;
@@ -124,6 +142,10 @@ body {
   
 input:checked + .slider {
     background-color: #418b05;
+}
+
+input:checked + .slider:hover {
+    background-color: #2e6303;
 }
   
 input:focus + .slider {

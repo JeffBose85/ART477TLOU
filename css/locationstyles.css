@@ -75,23 +75,6 @@ body {
     left:0;
 }
 
-.maincontent {
-    position: relative;
-    height: auto;
-    padding-bottom: 5vw;
-
-    z-index: -1;
-}
-
-.switcherbackground {
-    position: sticky;
-    top:0px;
-    background-color: black;
-    width: 100%;
-    height: 90px;
-    z-index: 50;
-}
-
 .maincontentgradient {
     background: rgb(0,0,0);
     background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0) 100%);
@@ -162,6 +145,7 @@ body {
 
 .locationcontent {
     width: 24vw;
+    font-size: 18px;
 }
 
 .locationcontent > h1 {
@@ -171,6 +155,14 @@ body {
 
 .locationcontent > h1.left {
     text-align: right;
+}
+
+a {
+    color:white;
+}
+
+a:hover {
+    color: #ccc;
 }
 
 .timeselectorsection {
