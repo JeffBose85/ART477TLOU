@@ -10,17 +10,20 @@ var currSelected;
 
 $(document).ready(function () {
     currSelected = $('#location').html().toLowerCase();
+    const currPage = currSelected;
     moveSelected(alignmentdict[currSelected]);
 
     $('.selector').click(function () {
         var selected =  this.id;
 
         if(currSelected === selected) {
-            var url = currSelected + ".html";
-            $('body').animate({opacity: '0%'},1900);
-            setTimeout(function() {
-                window.location.href = url;
-            }, 2200);
+            if(currSelected !== currPage) {
+                var url = currSelected + ".html";
+                $('body').animate({opacity: '0%'},1900);
+                setTimeout(function() {
+                    window.location.href = url;
+                }, 2200);
+            }
         } else {
 
             var element = '#' + currSelected;

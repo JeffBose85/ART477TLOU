@@ -73,7 +73,7 @@ Quarantine Zone (Summer)
 - After Joel, Tess, and Ellie get ready to get out of the city. They must meet an outside fireflies group outside of the QZ at the capitol building.
 
 The Outskirts (Summer)
-- Going through a series of tunnels, the group gets found by a couple of FEDRA officers, they check the group for infections. Once they get to ellie, she stabs one in the leg and Joel and Tess kill the officers. They find the infected scanner and find out ellie is infected. She tells them that the bite she has on her right arm if 3 weeks old and that she is immune to the cordyceps virus.
+- Going through a series of tunnels, the group gets found by a couple of FEDRA officers, they check the group for infections. Once they get to ellie, she stabs one in the leg and Joel and Tess kill the officers. They find the infected scanner and find out ellie is infected. She tells them that the bite she has on her right arm if 3 weeks old and that she is immune to the cordyceps fungus.
 - Now that they killed those officers they must hide to responding officers and they must travel through open sewers avoiding various patrols. 
 - Eventually, they come up to a roadblock and they must find an alternate route, which is through a partially collapsed skyscraper.
 - In the skyscraper they also find a killed FEDRA patrol. This is were they meet the first clickers and runners of the game.
@@ -160,7 +160,16 @@ Tommy's Dam
 - Ellie is not happy with Joel's decision to leave her so she takes one of the horses at the dam and rides off alone. 
 - Joel and Tommy give chase and eventually catch up to her in at a farmstead where Ellie and Joel have a argument. Ellie expresses that she does not feel safe with anybody else and Joel does not trust himself to protect Ellie. They continue their talk but it is cut short as raiders enter the home.
 - They fight the raiders off and Joel makes his mind up that he will continue to travel with Ellie because of how much he cares.
+
 The University
+- Joel and Ellie travel the rest of the journey to the university from jackson on horseback.
+- Once they get into the university grounds they don't see any activity. They come up to two gates that are shut and Joel has to find a way around to open them on the other side.
+- When Joel is finding alternate routes he runs into infected that he must escape from.
+- When both Ellie and Joel finally get to the main campus lab they find nobody around.
+- They search for clues inside the lab and find that they had most likely moved. They suddenly hear a crash from a upper floor of the lab and move to investigate.
+- When they get to the upper portion they find left over monkeys that were used as experiments and find more clues that suggest the fireflies moved to a university in Salt Lake City.
+- When they are about to leave they get fired upon by a group of looters. On their way out Joel gets attacked by one of the looters and falls off a balcony getting impaled by a piece of rebar sticking out of the ground.
+- Ellie must help Joel escape the lab, which they do, and ride off on their horse. Eventually Joel passes out from blood loss.
 
 ## **TV Series information**
 Jackson
@@ -183,10 +192,32 @@ The University
 - Snow effect?
 ## **Game information**
 Lakeside Resort
+- The game cuts to Ellie in the woods hunting for food with her bow, she spots a deer and follows it to take back. Eventually she finds it dead inside of an abandoned destroyed industrial facility.
+- When she approaches the deer she is stopped by two hunters, David and James that are willing to trade for the deer for their group. Ellie asks if they have antibiotics and James leaves to get the medicine from their group.
+- While Ellie and David wait they are surrounded by infected and must make their way to a safer location. After contining to fight off the infected the infected eventually stop coming.
+- David and Ellie talk more and David reveals that his group encountered a crazy man that killed some of his group and the crazy man had a little girl with them.
+- Ellie realizing david is talking about her and Joel she gets defensive and James comes back with the medicine. Ellie runs away from them with the medicine when Daivd lets her go.
+- Ellie returns to Joel and gives Joel the antibiotics but then she realizes that she was followed from David's group. She leads them away on horseback but the horse is shot so she makes her way on foot.
+- Ellie continues to evade David's group when she stumbles onto a lakehouse and is eventually captured by David.
+- David takes Ellie back to his town and locks her up in a makeshift cell. David tries to creepily make Ellie join them but Ellie refuses and attacks David through the bars. David's group are cannibals and David is done with her and will kill her in the morning.
+- In the morning Ellie is put on a table by david and james and she reveals that she is infected and in the moment of confusion she takes a knife and kills James and flees.
+- Meanwhile Joel wakes up and tries to find Ellie. There are still David's men in the neighborhood so he knocks two of them out and tries to extract information on the whereabouts of Ellie. He does get a location and goes to save her.
+- She flees from the pursuing group and eventually finds herself in a restaurant with just herself and David. The two battle it out and Ellie eventually kills David and she is found by Joel and the two of them escape from the town.
 
 ## **TV Series information**
 Lakeside Resort
-- Ellie finds a neighbor and tries to treat Joel in a basement, Joel tries to make Ellie leave him but she refuses and tries to stitch him up. 
+- Ellie finds a neighborhood and tries to treat Joel in a basement, Joel tries to make Ellie leave him but she refuses and tries to stitch him up. 
+- Ellie eventually goes and tries to hunt for food with a rifle. She finds a deer, shoots it, but it survives. - She tracks it down to a nearby abandoned factory where she finds two people by the dead deer, David and James.
+- Ellie tells them to drop their weapons and David asks to trade for it because his group is hungry. Ellie asks for medicine, antibiotics, and David sends James back to the town for it.
+- Ellie and David wait in a nearby ruined house and they talk. David reveals that he is the leader of the group back in town and that everything happens for a reason. He reveals that he sent 4 men out to look for food and only 3 of them came back.
+- David continues and says that a crazy man killed one of his guys and that the crazy man had a little girl with him.
+- Ellie realizing he is talking about Joel gets defensive and David tells James, who came back and is behind her to lower his gun. James gives Ellie the medicine and she leaves the two and goes back to Joel.
+- Ellie gives Joel the antibiotics and stays with him. Eventually she spots a group of David's men that tracked her to the neighborhood where her and Joel are staying. She tries to lead them away on horseback but the horse is shot and she is captured. 
+- They take Ellie back to their town and lock her up in a makeshift cell. David tries to creepily make Ellie join them but Ellie refuses and attacks David through the bars. David's group are cannibals and David is done with her and will kill her in the morning.
+- In the morning Ellie is put on a table by david and james and she reveals that she is infected and in the moment of confusion she takes a knife and kills James and flees.
+- Meanwhile Joel wakes up and tries to find Ellie. There are still David's men in the neighborhood so he knocks two of them out and tries to extract information on the whereabouts of Ellie. He does get a location and goes to save her.
+- She flees from the pursuing group and eventually finds herself in a restaurant with just herself and David. The two battle it out and Ellie eventually kills David and she is found by Joel and the two of them escape from the town.
+
 
 # Spring 2033 / Spring 2023
 -Springish background
