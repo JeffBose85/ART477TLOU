@@ -223,11 +223,28 @@ Lakeside Resort
 -Springish background
 ## **Game information**
 Bus Depot
+- Joel and Ellie arrive into Salt Lake City with the goal to find the hospital the fireflies are stationed.
+- Ellie is rather quiet and Joel doesn't know what to say, as they make their way through the town Ellie spots a giraffe and becomes a child again.
+- They both share a moment and Joel reminds Ellie that they don't have to do this, and Ellie knows that this all can't be for nothing and continues on.
+- They continue their way and the path they take leads to a system of underground tunnels with parts that are flooded and some with infected.
+- Half way through the tunnel they come across rapid water that they must cross. A ruined bus that acted like a bridge dislodged from its holding while they were crossing
+and they both fell into the rapids. Ellie, not knowing how to swim, drowns as Joel saves her. Joel brings her to the surface and tries to help her but a firefly patrol stops him and knocks him out.
 The Firefly Lab
+- Joel wakes up inside of a hospital as Marlene the leader of the fireflies is at his bedside. Joel, concerned for Ellie's wellbeing asks Marlene in which Marlene replies that she is alright and is being prepping for surgery. 
+- Marlene reveals that Ellie will not survive the surgery but doctors will be able to reverse engineer a vaccine for Cordyceps.
+- Joel obviously does not like this decision and protests, Marlene has a firefly soldier escort Joel out. Joel as he walks passed his gear disarms the firefly soldier and questions where the operating room is and shoots the firefly soldier.
+- Joel rampages through the hospital killing anybody getting in his way as he makes his way to the operating room. Once he gets to the operating room the doctor inside holds a knife tell Joel he cannot take Ellie, in which Joel shoots the doctor and takes Ellie escaping the Hospital.
+- When Joel gets to the parking garage of the hospital Marlene stops him and tries to reason with him, in turn Joel shoots Marlene and flees in a vehicle.
+- Ellie wakes up and asks what happened, in which Joel says that the fireflies are no longer looking for a cure and there are many people that are immune.
 Jackson
+- Joel and Ellie drive back to Jackson where they will be staying.
+- Their truck breaks down just outside of Jackson so they walk the rest of the way. Just before they arrive Ellie stops Joel and questions Joel about if what he says about the fireflies is true.
+- Joel lies
 
 ## **TV Series information**
-- Will fill in later
+Bus Depot
+The Firefly Lab
+Jackson
 
 # Off-branch Pages
 - Should have a layout like a traditional wiki page
