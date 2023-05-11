@@ -20,6 +20,7 @@ body {
 
 .sectionheader {
     z-index: 1;
+    position: relative;
 
     text-align: center;
     width:100%;
@@ -145,7 +146,7 @@ body {
 
 .locationcontent {
     width: 24vw;
-    font-size: 18px;
+    font-size: 19px;
 }
 
 .locationcontent > h1 {
