@@ -66,10 +66,13 @@ hr {
 
 .offshootpicture {
     width:100%;
+    display:flex;
 }
 
 .offshootpicture > * > img {
     max-width: 320px;
+    width:320px;
+    justify-content: center;
 }
 
 .othercontent {
@@ -77,6 +80,7 @@ hr {
     grid-template-columns: 40% 60%;
     column-gap: 10px;
     background-color: #202020;
+    padding-top: 15px;
     padding-bottom: 15px;
     height:auto;
 }
@@ -87,4 +91,8 @@ hr {
 
 .otherleft {
     text-align: right;
+}
+
+.content {
+    line-height: 23px;
 }

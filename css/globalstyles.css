@@ -178,3 +178,13 @@ input:checked + .slider:before {
     letter-spacing: .2vw;
     cursor: pointer;
 }
+
+a {
+    color:white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #ccc;
+}

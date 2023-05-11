@@ -147,6 +147,7 @@ body {
 .locationcontent {
     width: 24vw;
     font-size: 19px;
+    line-height: 23px;
 }
 
 .locationcontent > h1 {
@@ -156,14 +157,6 @@ body {
 
 .locationcontent > h1.left {
     text-align: right;
-}
-
-a {
-    color:white;
-}
-
-a:hover {
-    color: #ccc;
 }
 
 .timeselectorsection {
