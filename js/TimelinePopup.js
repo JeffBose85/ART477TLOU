@@ -3,7 +3,7 @@ $(document).ready(function() {
 
     //If user comes from index (Main Menu) show the popup
     //if not hide it.
-    if(document.referrer.includes("index") || document.referrer.includes("timeline")) {
+    if(document.referrer.includes("index") || document.referrer === "https://jeffbose85.github.io/ART477TLOU/") {
         showPopup();
     } else {
         hidePopup();
