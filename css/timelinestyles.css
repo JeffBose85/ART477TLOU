@@ -114,3 +114,34 @@
     top:var(--topoffset);
     left:72vw;
 }
+
+.popup {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left:50%;
+    width:0;
+    height:5vw;
+
+    border-left: 2px white solid;
+
+    font-size: 1.2vw;
+    color:red;
+    text-align: center;
+
+    background-color: black;
+    background-image: url(../images/overgrown.png);
+    
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.popuptext {
+    width:30vw;
+    pointer-events: none;
+}
+
+.popupwhite {
+    color:white;
+
+    transition: .5s;
+}

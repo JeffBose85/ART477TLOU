@@ -45,6 +45,15 @@ body {
     line-height: 9vw;
 }
 
+.scrollguide {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    bottom:0;
+
+    font-size: 20px;
+}
+
 .grunge {
     background-clip: text;
     background-size: cover;
